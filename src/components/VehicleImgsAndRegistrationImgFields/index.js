@@ -1,0 +1,3 @@
+import VehicleImgsAndRegistrationImgFields from "./VehicleImgsAndRegistrationImgFields";
+
+export default VehicleImgsAndRegistrationImgFields;
